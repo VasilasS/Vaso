@@ -1,7 +1,9 @@
 # Vaso
-My Description 
-Hi 👋, I'm Vaso
-The frontend developer from Georgia
+
+Hi 👋, I'm Vaso,
+frontend developer from Georgia.
+I'm waiting for new opportunities. 
+Quality is guaranteed.💯
 
 - 🌱 I’m currently learning **3d blender.**
 
